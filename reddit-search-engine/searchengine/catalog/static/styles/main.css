@@ -1,0 +1,19 @@
+.form-control {
+    border-radius: 200px;
+    -moz-border-radius: 200px;
+    -webkit-border-radius: 200px;
+}
+
+ .navbar {
+     margin-bottom: 200px;
+ }
+
+ .my-auto {
+     margin-top: auto;
+     margin-bottom: auto;
+ }
+
+
+h1 {
+    margin-bottom: 20px !important;
+}

@@ -1,0 +1,11 @@
+.result {
+    background-color: darkgrey !important;
+}
+
+ .navbar {
+     margin-bottom: 50px;
+ }
+
+ .table .desc {
+     border-top: none !important;
+ }

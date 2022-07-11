@@ -1,0 +1,49 @@
+ .navbar-brand {
+     margin-left: 20px !important;
+}
+
+ .navbar-nav > li {
+     margin-left: 5px;
+     border-left: 2px solid #6c757d;
+ }
+
+ .navbar-nav > a {
+     font-family: "Helvetica Neue", sans-serif;
+ }
+
+ .center {
+    margin: 0 auto;
+    width: 50%;
+    text-align: center;
+}
+
+.footer {
+  position: relative;
+  margin-top: -20px; /* negative value of footer height */
+  height: 20px;
+  clear:both;
+  padding-top:20px;
+}
+
+ #wrap {
+     min-height: 95%;
+ }
+
+
+ #branding {
+     color: antiquewhite;
+     font-family: "Helvetica Neue", sans-serif;
+     font-size: larger;
+ }
+
+
+ body {
+     background-color: #EEEEEE !important;
+ }
+
+ html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
